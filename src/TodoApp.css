@@ -1,0 +1,74 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.ToDoApp-box-two{
+  float: left;
+  width: 50%;
+  margin-left: 25px;
+}
+
+.ToDoApp-box-one {
+  float:right;
+  width: 50%;
+  margin-left: 25px;
+}
+
+.ToDoApp{
+  display: flex;
+  margin-top: 5%;
+}
+
+.ToDoApp-To-do-list-box {
+  background-color: #87cefa;
+  padding: 2em;
+  padding-top: 1em;
+  word-break: break-word;
+}
+
+.ToDoApp-Recent-History {
+  background-color: #87cefa;
+  padding: 2em;
+  padding-top: 1em;
+  word-break: break-word;
+  margin-right: 20%;
+}
+
+.ToDoApp-add-button {
+    background-color: limegreen;
+    color: white;
+    font-size: 16px;
+    width: 50px;
+    float:right;
+    margin-right: 45%;
+    margin-top: -45px;
+}
+
+.ToDoApp-char-left {
+  position: fixed;
+}
+
+.ToDoApp-input-box{
+  margin-bottom: 5%;
+}
+
+
+.ToDoApp-input-field{
+  width: 300px;
+  height: 25px;
+}
+
+.ToDoApp-Items {
+  background-color: white;
+  padding: 7px;
+}
+
+h2 {
+  background-color: aquamarine;
+  padding: 0.5em;
+}
+
+h4 {
+  background-color: lawngreen;
+  padding: 0.5em;
+}
